@@ -1,6 +1,6 @@
 # Description
 
-# RNAseq analysis pipeline main DESeq analysis.
+# RNAseq analysis pipeline.
 
 # Author: MVAP
 # Version: 2023-03-10
